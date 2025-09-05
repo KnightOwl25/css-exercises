@@ -1,13 +1,16 @@
 /*styles.css */
 
-.button {
-    background-color: black;
-    color: white;
+.invert,
+.yellow {
     font-size: 28px;
     font-family: 'Helvetica', 'Times New Roman', sans-serif;
 }
 
-.button#color {
+.invert {
+    background-color: black;
+    color: white;
+}
+
+.yellow {
     background-color: yellow;
-    color: black;
 }
